@@ -1,6 +1,3 @@
-# ops-standards
-Enterprise SRE, DevSecOps, and Reliability Framework featuring SLA/SLO architectures, Incident Metrics, Security Controls, and Production RCA Templates.
-
 # Enterprise Reliability & Security Framework (SRE / DevSecOps)
 
 Este repositório é uma referência de arquitetura operacional e de engenharia para implementação de práticas avançadas de **SRE (Site Reliability Engineering)**, **Resiliência de Sistemas**, **DevSecOps** e **Gestão de Incidentes** no padrão utilizado pelo mercado. Então veremos abortagens envolvendo diversas circunstâncias ligadas a SRE, DevSecOps e frameworks de confiabilidade em nível corporativo, abrangendo arquiteturas de SLA/SLO, métricas de incidentes, controles de segurança e modelos de RCA (Análise de Causa Raiz) para ambientes de produção. 
